@@ -1,6 +1,6 @@
 # 📝 Lista de Tarefas | React + TypeScript + Tema Escuro
 
-Aplicação simples e funcional de lista de tarefas, criada durante os estudos do curso **React do Zero ao Avançado (2024)** do **Matheus Battisti / Hora de Codar** — com melhorias visuais, acessibilidade e dark mode implementadas com muito cuidado e amor por boas práticas.
+Aplicação simples e funcional de lista de tarefas, criada durante os estudos do curso — com melhorias visuais, acessibilidade e dark mode implementadas com muito cuidado e amor por boas práticas.
 
 ---
 
